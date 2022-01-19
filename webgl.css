@@ -1,0 +1,8 @@
+canvas {
+display: block;
+color: black;
+background-color: cyan;
+}
+video {
+	display: none;
+}
